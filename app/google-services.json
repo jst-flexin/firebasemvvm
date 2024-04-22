@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750928547375",
+    "project_id": "fir-69b6b",
+    "storage_bucket": "fir-69b6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750928547375:android:7011b0e49d53f8356c40da",
+        "android_client_info": {
+          "package_name": "com.ajumie.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqphtgnxm_Sj4xPe7hZqiejd6sUh7aQ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
